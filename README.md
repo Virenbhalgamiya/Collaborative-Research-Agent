@@ -25,7 +25,7 @@ The rapid growth of academic literature makes it challenging for researchers to 
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/collaborative_research_agent.git
+   git clone https://github.com/Virenbhalgamiya/Collaborative-Research-Agent.git
    cd collaborative_research_agent
    ```
 
@@ -95,4 +95,5 @@ MIT License
 
 ## Contact
 
-For questions or suggestions, open an issue or contact [your email].
+
+For questions or suggestions, open an issue or contact virubhalgamiya@gmail.com.
