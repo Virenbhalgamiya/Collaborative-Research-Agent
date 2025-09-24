@@ -1,0 +1,6 @@
+streamlit
+arxiv
+transformers
+sentence-transformers
+networkx
+matplotlib
