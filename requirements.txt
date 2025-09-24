@@ -3,4 +3,5 @@ arxiv
 transformers
 sentence-transformers
 networkx
+fastapi
 matplotlib
